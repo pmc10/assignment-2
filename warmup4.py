@@ -3,3 +3,7 @@
 # How to fix it: Add my_variable = "Hello" before the print line.
 
 print(my_variable)
+
+# Fixed code, error correction
+my_variable = "Hello"
+print(my_variable)
